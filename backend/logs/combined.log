@@ -1,0 +1,232 @@
+{"level":"info","message":"Connected to MongoDB","service":"dynamic-pricing-backend","timestamp":"2025-07-12 10:09:44"}
+{"level":"info","message":"Server running on port 5000","service":"dynamic-pricing-backend","timestamp":"2025-07-12 10:09:44"}
+{"level":"info","message":"Price update completed: 0 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 10:18:51"}
+{"level":"info","message":"Product created: bread (SKU-RXGGMDA7P)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 10:19:59"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 10:20:23"}
+{"level":"info","message":"ML price update for bread: 10 -> 2.630000114440918","service":"dynamic-pricing-backend","timestamp":"2025-07-12 10:20:23"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 10:24:24"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 10:24:24"}
+{"level":"info","message":"Product deleted: bread (SKU-RXGGMDA7P)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 10:24:33"}
+{"level":"info","message":"Connected to MongoDB","service":"dynamic-pricing-backend","timestamp":"2025-07-12 10:49:54"}
+{"level":"info","message":"Server running on port 5000","service":"dynamic-pricing-backend","timestamp":"2025-07-12 10:49:54"}
+{"level":"info","message":"New user registered: ketankamboj1980@gmail.com","service":"dynamic-pricing-backend","timestamp":"2025-07-12 10:52:00"}
+{"level":"info","message":"Connected to MongoDB","service":"dynamic-pricing-backend","timestamp":"2025-07-12 10:58:57"}
+{"level":"info","message":"Server running on port 5000","service":"dynamic-pricing-backend","timestamp":"2025-07-12 10:58:57"}
+{"level":"info","message":"Products exported in csv format by user ketankamboj1980@gmail.com","service":"dynamic-pricing-backend","timestamp":"2025-07-12 10:59:19"}
+{"level":"info","message":"Connected to MongoDB","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:00:18"}
+{"level":"info","message":"Server running on port 5000","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:00:18"}
+{"level":"info","message":"User logged out: ketankamboj1980@gmail.com","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:01:34"}
+{"level":"info","message":"User logged in: ketankamboj1980@gmail.com","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:01:40"}
+{"level":"info","message":"Connected to MongoDB","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:07:39"}
+{"level":"info","message":"Server running on port 5000","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:07:39"}
+{"level":"info","message":"Product created: bread (SKU-JFYH4NUKH)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:09:24"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:09:38"}
+{"level":"info","message":"ML price update for bread: 10 -> 2.68","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:09:38"}
+{"level":"info","message":"Connected to MongoDB","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:19:30"}
+{"level":"info","message":"Server running on port 5000","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:19:30"}
+{"level":"info","message":"Connected to MongoDB","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:19:55"}
+{"level":"info","message":"Server running on port 5000","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:19:55"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:20:28"}
+{"level":"info","message":"ML price update for bread: 2.68 -> 0.72","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:20:28"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:20:31"}
+{"level":"info","message":"ML price update for bread: 0.72 -> 0.19","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:20:31"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:20:32"}
+{"level":"info","message":"ML price update for bread: 0.19 -> 0.05","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:20:32"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:20:32"}
+{"level":"info","message":"ML price update for bread: 0.05 -> 0.01","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:20:32"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:20:33"}
+{"level":"info","message":"ML price update for bread: 0.01 -> 0","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:20:33"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:20:35"}
+{"level":"info","message":"ML price update for bread: 0 -> 0","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:20:35"}
+{"level":"info","message":"Product deleted: bread (SKU-JFYH4NUKH)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:20:44"}
+{"level":"info","message":"Connected to MongoDB","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:21:07"}
+{"level":"info","message":"Server running on port 5000","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:21:07"}
+{"level":"info","message":"User logged out: ketankamboj1980@gmail.com","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:21:34"}
+{"level":"info","message":"User logged in: ketankamboj1980@gmail.com","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:21:39"}
+{"level":"info","message":"Product created: bread (SKU-QIJYV7PAQ)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:22:26"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:22:34"}
+{"level":"info","message":"ML price update for bread: 20 -> 11.78","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:22:34"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:22:49"}
+{"level":"info","message":"ML price update for bread: 11.78 -> 6.94","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:22:49"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:22:50"}
+{"level":"info","message":"ML price update for bread: 6.94 -> 4.09","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:22:50"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:22:51"}
+{"level":"info","message":"ML price update for bread: 4.09 -> 2.41","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:22:51"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:22:52"}
+{"level":"info","message":"ML price update for bread: 2.41 -> 1.42","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:22:52"}
+{"level":"info","message":"Product deleted: bread (SKU-QIJYV7PAQ)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:23:02"}
+{"level":"info","message":"Connected to MongoDB","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:33:14"}
+{"level":"info","message":"Server running on port 5000","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:33:14"}
+{"level":"info","message":"Product created: bread (SKU-4DQ476RCY)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:13"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:21"}
+{"level":"info","message":"ML price update for bread: 0.1203079884504331 -> 0.07","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:21"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:27"}
+{"level":"info","message":"ML price update for bread: 0.07 -> 0.04","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:27"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:28"}
+{"level":"info","message":"ML price update for bread: 0.04 -> 0.02","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:28"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:29"}
+{"level":"info","message":"ML price update for bread: 0.02 -> 0.01","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:29"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:30"}
+{"level":"info","message":"ML price update for bread: 0.01 -> 0.01","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:30"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:32"}
+{"level":"info","message":"ML price update for bread: 0.01 -> 0.01","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:32"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:33"}
+{"level":"info","message":"ML price update for bread: 0.01 -> 0.01","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:33"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:33"}
+{"level":"info","message":"ML price update for bread: 0.01 -> 0.01","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:33"}
+{"level":"info","message":"Product deleted: bread (SKU-4DQ476RCY)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:34:52"}
+{"level":"info","message":"Connected to MongoDB","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:38:16"}
+{"level":"info","message":"Server running on port 5000","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:38:16"}
+{"level":"info","message":"Product created: bread (SKU-FTWIGNWIX)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:39:23"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:39:44"}
+{"level":"info","message":"ML price update for bread: 0.4812319538017324 -> 0.43","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:39:44"}
+{"level":"info","message":"Product created: mango (SKU-979LST3PE)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:40:24"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:40:38"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:40:38"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:40:38"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:40:46"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:40:46"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:40:46"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:40:59"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:40:59"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:40:59"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:01"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:01"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:01"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:08"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:08"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:08"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:12"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:12"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:12"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:16"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:16"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:16"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:24"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:24"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:24"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:26"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:26"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:26"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:36"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:36"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:36"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:38"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:38"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:38"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:42"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:42"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:42"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:46"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:46"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:46"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:49"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:49"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:49"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:53"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:53"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:53"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:56"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:56"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:56"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:59"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:59"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:41:59"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:02"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:02"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:02"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:06"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:06"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:06"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:09"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:09"}
+{"level":"info","message":"Price update completed: 0 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:09"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:12"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:12"}
+{"level":"info","message":"Price update completed: 0 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:12"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:16"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:16"}
+{"level":"info","message":"Price update completed: 0 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:16"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:19"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:19"}
+{"level":"info","message":"Price update completed: 0 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:19"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:31"}
+{"level":"info","message":"ML price update for bread: 0.04 -> 0.04","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:31"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:35"}
+{"level":"info","message":"ML price update for mango: 0.7218479307025986 -> 0.71","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:35"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:39"}
+{"error":"","level":"warn","message":"ML service unavailable, using fallback pricing","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:39"}
+{"level":"info","message":"Price update completed: 0 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:42:39"}
+{"level":"info","message":"Connected to MongoDB","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:54:34"}
+{"level":"info","message":"Server running on port 5000","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:54:34"}
+{"level":"info","message":"New user registered: abhi@gmail.com","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:55:33"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:55:42"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:55:42"}
+{"level":"info","message":"Price update completed: 2 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:55:42"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:55:47"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:55:47"}
+{"level":"info","message":"Price update completed: 2 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:55:47"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:55:49"}
+{"level":"info","message":"ML price update for bread: 2.4700000286102295 -> 2.609999895095825","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:55:49"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:55:51"}
+{"level":"info","message":"ML price update for mango: 1.600000023841858 -> 1.8200000524520874","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:55:51"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:55:59"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:55:59"}
+{"level":"info","message":"Price update completed: 2 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:55:59"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:56:01"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:56:01"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:56:01"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:56:08"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:56:08"}
+{"level":"info","message":"Price update completed: 0 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:56:08"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:56:16"}
+{"level":"info","message":"ML price update for bread: 3 -> 3.140000104904175","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:56:16"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:56:21"}
+{"level":"info","message":"ML price update for mango: 1.9299999475479126 -> 1.9700000286102295","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:56:21"}
+{"level":"info","message":"Product deleted: mango (SKU-979LST3PE)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:56:31"}
+{"level":"info","message":"Product deleted: bread (SKU-FTWIGNWIX)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:56:33"}
+{"level":"info","message":"User logged out: abhi@gmail.com","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:56:48"}
+{"level":"info","message":"New user registered: kk@gmail.com","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:57:23"}
+{"level":"info","message":"Price update completed: 0 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:57:29"}
+{"level":"info","message":"Product created: jag (SKU-6EXV3QDWW)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:58:02"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:58:05"}
+{"level":"info","message":"ML price update for jag: 0.2406159769008662 -> 0.27000001072883606","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:58:05"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:58:13"}
+{"level":"info","message":"Price update completed: 0 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:58:13"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:58:21"}
+{"level":"info","message":"Price update completed: 0 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:58:21"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:58:22"}
+{"level":"info","message":"Price update completed: 0 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:58:22"}
+{"level":"info","message":"Product created: bread (SKU-0JOK1EQDG)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:03"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:10"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:10"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:10"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:16"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:16"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:16"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:18"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:18"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:18"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:24"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:24"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:24"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:25"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:25"}
+{"level":"info","message":"Price update completed: 1 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:25"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:34"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:34"}
+{"level":"info","message":"Price update completed: 0 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:34"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:35"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:35"}
+{"level":"info","message":"Price update completed: 0 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:35"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:50"}
+{"level":"info","message":"ML price update for bread: 3 -> 3.140000104904175","service":"dynamic-pricing-backend","timestamp":"2025-07-12 11:59:51"}
+{"level":"info","message":"Connected to MongoDB","service":"dynamic-pricing-backend","timestamp":"2025-07-12 12:03:57"}
+{"level":"info","message":"Server running on port 5000","service":"dynamic-pricing-backend","timestamp":"2025-07-12 12:03:57"}
+{"level":"info","message":"User logged out: kk@gmail.com","service":"dynamic-pricing-backend","timestamp":"2025-07-12 12:04:50"}
+{"level":"info","message":"New user registered: ashi@gmail.com","service":"dynamic-pricing-backend","timestamp":"2025-07-12 12:05:14"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 12:05:38"}
+{"level":"info","message":"ML prediction successful","service":"dynamic-pricing-backend","timestamp":"2025-07-12 12:05:38"}
+{"level":"info","message":"Price update completed: 0 updated, 0 errors","service":"dynamic-pricing-backend","timestamp":"2025-07-12 12:05:38"}
+{"level":"info","message":"Product deleted: jag (SKU-6EXV3QDWW)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 12:05:43"}
+{"level":"info","message":"Product deleted: bread (SKU-0JOK1EQDG)","service":"dynamic-pricing-backend","timestamp":"2025-07-12 12:05:46"}
